@@ -1,0 +1,856 @@
+[
+    {
+        "id": "4f61bad3-0a1a-445d-cf31-08d6872340eb",
+        "title": "O Burger street",
+        "subTitle": "Burger with half a pound of meat, truffle mayo and agg",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 790,
+        "maximumCalorie": 1350,
+        "preparation": 4,
+        "delivery": 0,
+        "image": "https://www.la-viande.fr/sites/default/files/inline-images/hamburger.jpg",
+        "gallery": "",
+        "price": 10.49,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "Ameriscan",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Luncsh & Dinners",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Sandwich",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "a8a3cd65-4887-4788-67e6-08d687252175",
+        "title": "SteakHouse Grill",
+        "subTitle": "A tender 13 oz. seasoned T-Bone steak served with two eggs, hash browns and bread",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 0,
+        "maximumCalorie": 0,
+        "preparation": 4,
+        "delivery": 0,
+        "image": "data:image/jpeg;base64,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",
+        "gallery": "",
+        "price": 16.99,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 3
+        },
+        "mealType": {
+            "title": "Breakfast",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "A'la Carte",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "736c756a-2a0d-471b-67e8-08d687252175",
+        "title": "Sushi Deli",
+        "subTitle": "A delicious sushi comes with fresh red caviar",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 280,
+        "maximumCalorie": 420,
+        "preparation": 4,
+        "delivery": 0,
+        "image": "https://cache.cosmopolitan.fr/data/photo/w1000_ci/4w/sushis-sante.jpg",
+        "gallery": "",
+        "price": 4.95,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "Japanese",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Sushi",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "0182b004-63b6-4aa3-31b4-08d68730ae0f",
+        "title": "Cinnamon Roll Pancake",
+        "subTitle": "Our cinnamon crumb topping cooked into two buttermilk pancakes and topped with whipped cream",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 620,
+        "maximumCalorie": 0,
+        "preparation": 5,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/13.jpg",
+        "gallery": "",
+        "price": 11.48,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Breakfast",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Cinnamon roll pancake",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "16c17fc6-1681-4d3f-31b5-08d68730ae0f",
+        "title": "Eggs Benedict",
+        "subTitle": "Smoked ham, poached eggs, hollandaise, fresh chives, and English muffins",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 800,
+        "maximumCalorie": 1200,
+        "preparation": 5,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/14.jpg",
+        "gallery": "",
+        "price": 13.48,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Breakfast",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "à la carte",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "2c433d2f-5d42-430a-67e9-08d687252175",
+        "title": "Albacore Sashimi",
+        "subTitle": "A sashimi upgraded with organic fresh albacore to show off the difference",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 320,
+        "maximumCalorie": 400,
+        "preparation": 10,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/6.jpg",
+        "gallery": "",
+        "price": 12.95,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "Japanese",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Sashimi",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "89196ca8-d70e-4e9b-67eb-08d687252175",
+        "title": "Blueberry Pancake Breakfast",
+        "subTitle": "Served with two eggs and hash browns, plus your choice of two bacon strips or two sausage links",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 0,
+        "maximumCalorie": 0,
+        "preparation": 10,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/8.jpg",
+        "gallery": "",
+        "price": 8.99,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 3
+        },
+        "mealType": {
+            "title": "Breakfast",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Pancake",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "a1aaa6eb-78c6-4a4d-31b3-08d68730ae0f",
+        "title": "Avocado Bacon Cheeseburger",
+        "subTitle": "1/3 lb. Pure beef patty, topped with hand-smashed avocado, American cheese, thick double-smoked bacon onion",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 1550,
+        "maximumCalorie": 1900,
+        "preparation": 10,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/12.jpg",
+        "gallery": "",
+        "price": 7.69,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Fastfood",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "7129c46d-b684-4bd1-67ea-08d687252175",
+        "title": "My Hammy & Cheese Omelette",
+        "subTitle": "Three-egg omelette melted combination of cheeses and choice of bread",
+        "description": "",
+        "ingredients": "egg, ham,Swiss chees, American chees, hash browns",
+        "minimumCalorie": 1300,
+        "maximumCalorie": 2100,
+        "preparation": 15,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/7.jpg",
+        "gallery": "",
+        "price": 10.99,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Breakfast",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Omelette",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "35e2287b-89ec-46c0-67ec-08d687252175",
+        "title": "Gordita Taco Combo",
+        "subTitle": "Served with rice, beans, and chips",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 450,
+        "maximumCalorie": 750,
+        "preparation": 15,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/9.jpg",
+        "gallery": "",
+        "price": 9.89,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "Mexican",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Taco",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "d32e79db-c9a6-41f0-67e5-08d687252175",
+        "title": "Noodle Plate",
+        "subTitle": "Plate of fresh vegetable and chicken or beef",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 0,
+        "maximumCalorie": 0,
+        "preparation": 25,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/2.jpg",
+        "gallery": "",
+        "price": 9.2,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "chinese",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Fast food",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "1fedff8f-36be-4335-67e7-08d687252175",
+        "title": "California Chicken Salad",
+        "subTitle": "White meat chicken full of veggies, and side of choice of dressing",
+        "description": "",
+        "ingredients": "White meat chicken, avocado, feta cheese, carrots, bell peppers, tomatoes, broccoli, lettuce, croutons, pasta",
+        "minimumCalorie": 820,
+        "maximumCalorie": 1740,
+        "preparation": 25,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/4.jpg",
+        "gallery": "",
+        "price": 13.8,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Salad",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "00ee0094-39ce-4d25-67ed-08d687252175",
+        "title": "Pad Thai",
+        "subTitle": "With egg, bean sprouts, peanut, and green onion",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 860,
+        "maximumCalorie": 1200,
+        "preparation": 25,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/10.jpg",
+        "gallery": "",
+        "price": 9.99,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "Thai",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Seafood",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    },
+    {
+        "id": "8657273f-bb10-453a-67ee-08d687252175",
+        "title": "Quarter Dark and Leg",
+        "subTitle": "This juicy dark meat plate comes with a rotisserie chicken thigh and leg, and our delicious hand sliced tomatoe",
+        "description": "",
+        "ingredients": "",
+        "minimumCalorie": 1800,
+        "maximumCalorie": 2600,
+        "preparation": 40,
+        "delivery": 0,
+        "image": "https://image.opeqe.com/gallery/small/11.jpg",
+        "gallery": "",
+        "price": 16.67,
+        "fee": 0,
+        "rate": 0,
+        "isAcceptingDelivery": false,
+        "isAcceptingPickup": true,
+        "isFavorite": false,
+        "isCatering": false,
+        "isAvailable": true,
+        "cuisineType": {
+            "title": "American",
+            "description": "",
+            "image": "",
+            "priority": 1
+        },
+        "mealType": {
+            "title": "Lunch & Dinner",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "menuType": {
+            "title": "Fastfood",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "courseType": {
+            "title": "Main Course",
+            "description": "",
+            "image": "",
+            "priority": 0
+        },
+        "special": {
+            "title": "",
+            "description": "",
+            "transcript": "",
+            "policy": "",
+            "image": "",
+            "voucher": "",
+            "beginTime": "00:00:00",
+            "remainingTime": 0,
+            "amount": 0,
+            "percentage": 0,
+            "limit": 0,
+            "value": 0,
+            "quantity": 0
+        },
+        "rewards": []
+    }
+]
