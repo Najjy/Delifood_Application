@@ -2,42 +2,42 @@ import React from "react";
 // import Card from "./../public/card";
 // var data = require("./../../../menu.json");
 var city = [
-  "Austin",
-  "Austin",
-  " Baltimore - Maryland",
-  "Boston",
-  "Charlotte",
-  "Chicago",
-  "Dallas - Fort Worth",
-  "Austin",
-  "Baltimore-Maryland",
-  "Boston",
-  "Charlotte",
-  "Chicago",
-  "Denver",
-  "Las Vegas",
-  "Los Angeles",
-  "Miami",
-  "Minneapolis - St. Paul",
-  "New York City",
-  "Orange County",
-  "Palm Springs",
-  "Philadelphia",
-  "Phoenix",
-  "Portland",
-  "Sacramento",
-  "San Diego",
-  "San Francisco Bay Area",
-  "Seattle",
-  "Tampa Bay"
+  "Paris",
+  "Colombes",
+  "Bois-Colombes",
+  "Asnières-sur-Seine",
+  "Courbevoie",
+  "Boulogne-Billancourt",
+  "Antony",
+  "Bagneux",
+  "Chatillon",
+  "Clamart",
+  "Clichy",
+  "Clamart",
+  "Fontenay-aux-Roses",
+  "Issy-les-Moulinoux",
+  "Gennevilliers",
+  "Nanterre",
+  "Montrouge",
+  "Puteaux",
+  "Saint-cloud",
+  "Sevres",
+  "Rueil-Malmaison",
+  "Neuilly-sur-Seine",
+  "Levallois-Perret",
+  "Meudon",
+  "La Garenne-Colombes",
+  "Vanves",
+  "Vaucresson",
+  "Ville-d'Avray"
 ];
 
 function Nearest() {
   return (
     <div style={{ margin: "0 80px" }}>
       <div className="displayflex" style={{ justifyContent: "space-between" }}>
-        <div style={{ fontSize: 26 }}>Cities Near You</div>
-        <div className="linkStyle">View all 500+ cities</div>
+        <div style={{ fontSize: 26 }}>Les villes près de chez vous</div>
+        <div className="linkStyle">Voir les 500+ villes</div>
       </div>
       <div className="gridCity">
         {city.map(item => (
