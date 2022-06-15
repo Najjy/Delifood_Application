@@ -17,9 +17,9 @@ function App() {
       <Deliverd />
       <Delivery />
       <New title="Nouveaux sur Delifood" />
-      <New title="Pizza Delivery in San Francisco Bay Area" />
+      <New title="Pizza" />
       <Nearest />
-      <New title="Chinese Delivery in San Francisco Bay Area" />
+      <New title="Chinois" />
       <Popular />
       <Footer />
     </div>
