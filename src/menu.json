@@ -124,7 +124,7 @@
     {
         "id": "736c756a-2a0d-471b-67e8-08d687252175",
         "title": "Sushi Deli",
-        "subTitle": "A delicious sushi comes with fresh red caviar",
+        "subTitle": "Des deliceux sushi réalisé par notre chef",
         "description": "",
         "ingredients": "",
         "minimumCalorie": 280,
@@ -142,13 +142,13 @@
         "isCatering": false,
         "isAvailable": true,
         "cuisineType": {
-            "title": "Japanese",
+            "title": "Japonais",
             "description": "",
             "image": "",
             "priority": 1
         },
         "mealType": {
-            "title": "Lunch & Dinner",
+            "title": "Dejeuner & Dinner",
             "description": "",
             "image": "",
             "priority": 0
@@ -185,7 +185,7 @@
     {
         "id": "0182b004-63b6-4aa3-31b4-08d68730ae0f",
         "title": "Cinnamon Roll",
-        "subTitle": "Our cinnamon crumb topping cooked into two buttermilk pancakes and topped with whipped cream",
+        "subTitle": "Notre garniture de chapelure à la cannelle cuite dans deux crêpes au babeurre et garnie de crème fouettée",
         "description": "",
         "ingredients": "",
         "minimumCalorie": 620,
@@ -203,19 +203,19 @@
         "isCatering": false,
         "isAvailable": true,
         "cuisineType": {
-            "title": "American",
+            "title": "Americain",
             "description": "",
             "image": "",
             "priority": 1
         },
         "mealType": {
-            "title": "Breakfast",
+            "title": "Petit-dejeuner",
             "description": "",
             "image": "",
             "priority": 0
         },
         "menuType": {
-            "title": "Cinnamon roll pancake",
+            "title": "Cinnamon roll",
             "description": "",
             "image": "",
             "priority": 0
@@ -245,15 +245,15 @@
     },
     {
         "id": "16c17fc6-1681-4d3f-31b5-08d68730ae0f",
-        "title": "Eggs Benedict",
-        "subTitle": "Smoked ham, poached eggs, hollandaise, fresh chives, and English muffins",
+        "title": "Oeuf benedicte",
+        "subTitle": "Jambon fumé, œufs pochés, sauce hollandaise, ciboulette fraîche et muffins anglais",
         "description": "",
         "ingredients": "",
         "minimumCalorie": 800,
         "maximumCalorie": 1200,
         "preparation": 5,
         "delivery": 0,
-        "image": "https://image.opeqe.com/gallery/small/14.jpg",
+        "image": "https://img.mesrecettesfaciles.fr/wp-content/uploads/2015/06/shutterstock_115639039-1000x500.jpg",
         "gallery": "",
         "price": 13.48,
         "fee": 0,
@@ -276,7 +276,7 @@
             "priority": 0
         },
         "menuType": {
-            "title": "à la carte",
+            "title": "A la carte",
             "description": "",
             "image": "",
             "priority": 0
@@ -306,15 +306,15 @@
     },
     {
         "id": "2c433d2f-5d42-430a-67e9-08d687252175",
-        "title": "Albacore Sashimi",
-        "subTitle": "A sashimi upgraded with organic fresh albacore to show off the difference",
+        "title": "Sashimi du Germon",
+        "subTitle": "Un sashimi amélioré avec du germon frais bio pour montrer la différence",
         "description": "",
         "ingredients": "",
         "minimumCalorie": 320,
         "maximumCalorie": 400,
         "preparation": 10,
         "delivery": 0,
-        "image": "https://media.sudouest.fr/3189629/1000x500/so-5a65e97366a4bd5a54d6a825-ph0.jpg?v=1516708062",
+        "image": "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_630,q_auto,w_1200/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/9942/sashimis-flickr-4959525180_c3451a8b2c_b.jpg",
         "gallery": "",
         "price": 12.95,
         "fee": 0,
