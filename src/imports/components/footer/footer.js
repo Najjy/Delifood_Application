@@ -120,7 +120,7 @@ function Footer() {
                 height="16px"
                 style={{ margin: 20, marginLeft: 0 }}
               />
-              >
+              
             </a>
             <a href="#" style={{ margin: "10px 8px 10px -12px" }}>
               <img
@@ -129,7 +129,7 @@ function Footer() {
                 height="16px"
                 style={{ margin: 20, marginLeft: 0 }}
               />
-              >
+              
             </a>
             <a href="#" style={{ margin: "10px 8px 10px -12px" }}>
               <img
@@ -138,7 +138,7 @@ function Footer() {
                 height="16px"
                 style={{ margin: 20, marginLeft: 0 }}
               />
-              >
+              
             </a>
           </div>
         </div>

@@ -248,7 +248,7 @@ code {
 
 .text {
   font-size: 16px;
-  kine-height: 24px;
+  line-height: 24px;
   color: #1f1f1f;
 }
 
@@ -260,7 +260,7 @@ code {
 }
 
 .linkStyle {
-  color: #247a00;
+  color: #064635;
   text-decoration: none;
   margin-top: 8px;
 }
@@ -280,7 +280,7 @@ code {
 
 .hrStyle {
   margin: 40px 0;
-  background-color: #000000;
+  background-color: #030303;
   height: 1px;
   border: none;
 }
