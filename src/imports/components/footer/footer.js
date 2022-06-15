@@ -1,4 +1,5 @@
 import React from "react";
+import image from "./img/logo_long.PNG";
 var data = require("./../../../menu.json");
 
 function Footer() {
@@ -6,8 +7,8 @@ function Footer() {
     <div
       style={{
         marginTop: 80,
-        background: "#1f1f1f",
-        padding: "72px 80px 88px"
+        background: "#F4EEA9",
+        padding: "72px 100px 100px"
       }}
     >
       <div style={{ display: "flex", justifyContent: "space-between" }}>
@@ -15,8 +16,8 @@ function Footer() {
           <div style={{ marginBottom: "85px" }}>
             <a>
               <img
-                src="https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/12c47a69e1022b581a7e823e9bd45466.svg"
-                height="24px"
+                src={image}
+                height="80px"
               />
             </a>
           </div>
@@ -35,7 +36,7 @@ function Footer() {
         <div>
           <div style={{ marginBottom: 16 }}>
             <a href="#" className="hrefstyle">
-              About Uber Eats
+              About Delifood
             </a>
           </div>
           <div style={{ marginBottom: 16 }}>
